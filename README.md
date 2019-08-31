@@ -1,6 +1,6 @@
 ## Unit Testing Assignment
 
-by Bill Gates.
+by Fatalai Jon.
 
 
 ## Test Cases for unique
