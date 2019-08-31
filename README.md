@@ -1,6 +1,6 @@
 ## Unit Testing Assignment
 
-by Bill Gates.
+by Bill Gates and Fatalai Jon
 
 
 ## Test Cases for unique
@@ -13,7 +13,6 @@ Write a table describing your test cases.
 | one item               |  list with 1 item   |
 | one item many times    |  list with 1 item   |
 | 2 items, many times, many orders | 2 item list, items in same order  |
-| what other test case?  |  what result?       |
 
 
 ## Test Cases for Fraction
