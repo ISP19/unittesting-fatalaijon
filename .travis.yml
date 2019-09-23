@@ -5,3 +5,6 @@ python:
 
 git:
   depth: 1
+
+script:
+  - python -m unittest -v fraction_test.py
