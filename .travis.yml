@@ -6,8 +6,11 @@ python:
 git:
   depth: 1
 
+install:
+  - pip install codecov
+
 script:
-  - python -m unittest -v fraction_test.py
+  - coverage run fraction_test.py
 
 after_success:
   - codecov
