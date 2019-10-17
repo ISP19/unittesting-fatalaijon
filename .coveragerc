@@ -1,0 +1,19 @@
+[report]
+exclude_lines =
+    # Don't complain if non-runnable code isn't run:
+    if 0:
+    if __name__ == .__main__.:
+
+ignore_errors = True
+
+[run]
+# Measure branch coverage in addition to statement coverage?
+branch = True
+
+# File name patterns to omit from measurement and reporting
+omit =
+    # anything in python libraries
+    /usr/*
+    # for Django
+    migrations/*
+    settings.py
