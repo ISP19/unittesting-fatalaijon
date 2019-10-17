@@ -2,8 +2,10 @@
 __pycache__
 *.py[cod]
 /build
-# virtualenv and environment vars
+# environment vars
+codecov-token.txt
 .env
+# virtualenv 
 venv/
 env/
 

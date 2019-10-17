@@ -8,3 +8,6 @@ git:
 
 script:
   - python -m unittest -v fraction_test.py
+
+after_success:
+  - codecov
