@@ -1,6 +1,6 @@
-## Unit Testing Assignment
+## Unit Testing a Fraction class and List Utilities.
 
-by Bill Gates and Fatalai Jon
+[![Build Status](https://travis-ci.com/fatalaijon/unittesting-fatalaijon.svg?branch=master)](https://travis-ci.com/fatalaijon/unittesting-fatalaijon)
 
 
 ## Test Cases for unique
