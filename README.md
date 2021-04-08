@@ -1,4 +1,4 @@
-## Unit Testing a Fraction class and List Utilities.
+## Unit Testing a Fraction class and List Utilities
 
 [![Build Status](https://travis-ci.com/fatalaijon/unittesting-fatalaijon.svg?branch=master)](https://travis-ci.com/fatalaijon/unittesting-fatalaijon)
 [![codecov](https://codecov.io/gh/fatalaijon/unittesting-fatalaijon/branch/master/graph/badge.svg)](https://codecov.io/gh/fatalaijon/unittesting-fatalaijon)
